@@ -16,7 +16,7 @@ const AboutUs = () => {
                         {/*  1st Section Right Side data */}
                         <div className="col-12 col-lg-7 our-services-list">
                             <h3 className="mini-title">
-                                --AVAILABLE @ GOOGLE AND IOS APP STORE ONLY
+                                --AVAILABLE @ GOOGLE PLAY AND IOS APP STORE ONLY
                             </h3>
                             <h1 className="main-heading">How to use the APP? </h1>
 

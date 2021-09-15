@@ -10,7 +10,7 @@ const Header = () => {
                         d-flex justify-content-center flex-column align-items-start
                         order-lg-first order-last">
                             <h1 className="display-2">
-                                Online Payment Made <br /> Easy For You.
+                                Online Payment <br /> Made Easy
                             </h1>
                             <p className="main-hero-para">
                                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt, sint accusantium explicabo inventore delectus non assumenda. Minima eius odio quod? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus nisi minima eligendi quas eveniet eaque corporis quis, quo placeat, dolorum, optio alias perspiciatis perferendis autem! Pariatur explicabo placeat qui fuga.
