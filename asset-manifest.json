@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/CricPay-App/static/css/main.5160a420.chunk.css",
-    "main.js": "/CricPay-App/static/js/main.953ad320.chunk.js",
-    "main.js.map": "/CricPay-App/static/js/main.953ad320.chunk.js.map",
-    "runtime-main.js": "/CricPay-App/static/js/runtime-main.d09e3890.js",
-    "runtime-main.js.map": "/CricPay-App/static/js/runtime-main.d09e3890.js.map",
-    "static/js/2.72642ae1.chunk.js": "/CricPay-App/static/js/2.72642ae1.chunk.js",
-    "static/js/2.72642ae1.chunk.js.map": "/CricPay-App/static/js/2.72642ae1.chunk.js.map",
-    "index.html": "/CricPay-App/index.html",
-    "static/css/main.5160a420.chunk.css.map": "/CricPay-App/static/css/main.5160a420.chunk.css.map",
-    "static/js/2.72642ae1.chunk.js.LICENSE.txt": "/CricPay-App/static/js/2.72642ae1.chunk.js.LICENSE.txt"
+    "main.css": "/CricPay-React-App/static/css/main.5160a420.chunk.css",
+    "main.js": "/CricPay-React-App/static/js/main.953ad320.chunk.js",
+    "main.js.map": "/CricPay-React-App/static/js/main.953ad320.chunk.js.map",
+    "runtime-main.js": "/CricPay-React-App/static/js/runtime-main.66b1ebdb.js",
+    "runtime-main.js.map": "/CricPay-React-App/static/js/runtime-main.66b1ebdb.js.map",
+    "static/js/2.72642ae1.chunk.js": "/CricPay-React-App/static/js/2.72642ae1.chunk.js",
+    "static/js/2.72642ae1.chunk.js.map": "/CricPay-React-App/static/js/2.72642ae1.chunk.js.map",
+    "index.html": "/CricPay-React-App/index.html",
+    "static/css/main.5160a420.chunk.css.map": "/CricPay-React-App/static/css/main.5160a420.chunk.css.map",
+    "static/js/2.72642ae1.chunk.js.LICENSE.txt": "/CricPay-React-App/static/js/2.72642ae1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d09e3890.js",
+    "static/js/runtime-main.66b1ebdb.js",
     "static/js/2.72642ae1.chunk.js",
     "static/css/main.5160a420.chunk.css",
     "static/js/main.953ad320.chunk.js"
